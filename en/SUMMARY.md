@@ -59,7 +59,7 @@
     * [Dependency Injection](user-guide/dependency-injection/index.md)
     * [Events](user-guide/events/index.md)
         * [Windows Forms](user-guide/events/windows-forms.md)
-    * [Routing](user-guide/routing/index.md)
+    * [Routing / Navigation](user-guide/routing/index.md)
         * [Xamarin Forms](user-guide/routing/xamarin_forms.md)
     * [Caching](user-guide/caching/index.md)
         * [Common Patterns](user-guide/caching/common-patterns.md)
